@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlassArtifactMod", "GlassArtifactMod.csproj", "{97636547-0777-4FC0-89A5-01CAF62AD252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceOnDeath", "..\SequenceOnDeath\SequenceOnDeath.csproj", "{F4B95A69-E2AA-4B16-8932-9B3CCE785DF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97636547-0777-4FC0-89A5-01CAF62AD252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97636547-0777-4FC0-89A5-01CAF62AD252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97636547-0777-4FC0-89A5-01CAF62AD252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97636547-0777-4FC0-89A5-01CAF62AD252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B95A69-E2AA-4B16-8932-9B3CCE785DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B95A69-E2AA-4B16-8932-9B3CCE785DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B95A69-E2AA-4B16-8932-9B3CCE785DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B95A69-E2AA-4B16-8932-9B3CCE785DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1E3E1BD-FF55-4265-94F0-62E4EB8626E7}
+	EndGlobalSection
+EndGlobal
